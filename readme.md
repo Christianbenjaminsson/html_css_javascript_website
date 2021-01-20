@@ -5,4 +5,4 @@ This website is made with instructions from Brian Designs youtube video "HTML CS
 
 [Brian Designs video](https://www.youtube.com/watch?reload=9&v=3-2Pj5hxwrw)
 
-Below: snapshot of website
+[Snapshot of website design](/images/color-website.png)
